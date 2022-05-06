@@ -1,2 +1,1 @@
 # blog-comments
-blog  comments
